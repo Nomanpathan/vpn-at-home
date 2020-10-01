@@ -1,5 +1,5 @@
-This software is no longer supported
-====================================
+Due to some reasons this software is no longer supported
+========================================================
 
 I'm no longer maintaining this software.
 
@@ -27,7 +27,7 @@ What?
 1-click deployment of OpenVPN with DNS ad blocking sinkhole. Deploys to your favorite VPS machine.
 Created with **Vue.js**, **Semantic UI** and **Django**. And with love, of course.
 
-Where I can find packages
+Where I can find packages?
 -------------------------
 
 Ubuntu 20.04 users can use pre-built packages:
@@ -46,7 +46,7 @@ I do not maintain older Ubuntu versions as I don't run them.
 There is a package for 18.04 that Launchpad built for me automatically,
 but it is known to be broken.
 
-What if I need halp!
+What if I need help!
 --------------------
 
 You can ask on `Telegram group chat <https://t.me/vpnathome>`_ or mail me (e-mail in git history).
